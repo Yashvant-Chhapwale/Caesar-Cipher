@@ -13,9 +13,9 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
   - `Decryption`: The receiver uses the same key as the sender to `decrypt` the message back to its original form.
 
 ### Drawbacks:
-  - **No Complexity:** The lack of complexity in the shifting process makes it vulnerable.
-  - **Lack Of Security:** The security relies on the secrecy of the key, if someone knows the shift value, they can easily decrypt the message.
-  - **Plaintext Patterns:** The structure of the plaintext (e.g., common letters, symbols, words and phrases) can be identified in the ciphertext, making it easier to decipher.
+  - **`No Complexity`:** The lack of complexity in the shifting process makes it vulnerable.
+  - **`Lack Of Security`:** The security relies on the secrecy of the key, if someone knows the shift value, they can easily decrypt the message.
+  - **`Plaintext Patterns`:** The structure of the plaintext (e.g., common letters, symbols, words and phrases) can be identified in the ciphertext, making it easier to decipher.
 
 ### Note:
   - The `Caesar Cipher` is usually designed for alphabetic characters, but it can be customized to accommodate numbers and symbols as well.
