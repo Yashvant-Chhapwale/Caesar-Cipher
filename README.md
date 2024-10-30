@@ -19,7 +19,7 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
 
 ---
 
-# Encryption Flow
+## Process Flow
 
 
 
