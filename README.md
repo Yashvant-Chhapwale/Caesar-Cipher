@@ -32,7 +32,9 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
 ---
 
 ## Example
-
+  - Suppose, **`Key = 3`**
+  - **`Message  = 'Hello World!'`**
+  - **`Action = Encode`**
 
 
 
