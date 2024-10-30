@@ -31,7 +31,7 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
 
 ---
 
-## Example
+## Demonstration
   - Suppose, **`Key = 3`**
   - **`Message  = 'Hello World!'`**
   - Then, For **`Action = Encode`**:<br>
