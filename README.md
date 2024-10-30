@@ -35,7 +35,7 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
   - Suppose, **`Key = 3`**
   - **`Message  = 'Hello World!'`**
   - Then, For **`Action = Encode`**:<br>
-    ![Encode_Output](https://github.com/user-attachments/assets/c04e33df-9c31-4f7e-a9a2-c6b351cf89b3)
+    ![Encode_Output](https://github.com/user-attachments/assets/da899caf-d1f9-49b0-bce6-bf3774e6e8d2)
   - Similarly, For **`Action = Decode`**:
 
 
