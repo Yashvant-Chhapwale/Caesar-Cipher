@@ -39,6 +39,6 @@ This repository contains a Python implementation of the Caesar Cipher, a classic
   - Then, For **`Action = Encode`**:<br>
     ![Encode_Output](https://github.com/user-attachments/assets/ca3232cb-70f6-4ec8-a394-beab2f9711d3)
   - Similarly, For **`Action = Decode`**:<br>
-    ![Decode_Output](https://github.com/user-attachments/assets/db2b7317-3b1f-4e82-b1f2-89600525864d)
+    ![Decode_Output](https://github.com/user-attachments/assets/05296c37-6b01-4420-b051-5ee3c0f21f43)
 
 ---
